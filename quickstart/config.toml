@@ -2,3 +2,50 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "UARC"
 theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = "https://www.facebook.com/UtahAmateurRadioClub/"
+  twitter = ""
+  instagram = ""
+  youtube = "https://www.youtube.com/c/utahamateurradioclub"
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/Antenna-Farm.jpg"
+  recent_posts_number = 2
+
+[menu]
+
+  [[menu.main]]
+    identifier = "calendar"
+    name = "Event Calendar"
+    title = "Events"
+    url = "/events/"
+    weight = -110
+    
+    [[menu.main]]
+    identifier = "microvolt"
+    name = "Newsletter"
+    title = "Microvolt"
+    url = "/microvolt/"
+    weight = -110
