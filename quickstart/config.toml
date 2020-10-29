@@ -33,19 +33,3 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/Antenna-Farm.jpg"
   recent_posts_number = 2
-
-[menu]
-
-  [[menu.main]]
-    identifier = "calendar"
-    name = "Event Calendar"
-    title = "Events"
-    url = "/events/"
-    weight = -110
-    
-    [[menu.main]]
-    identifier = "microvolt"
-    name = "Newsletter"
-    title = "Microvolt"
-    url = "/microvolt/"
-    weight = -110

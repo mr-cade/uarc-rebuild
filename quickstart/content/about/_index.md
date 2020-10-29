@@ -1,7 +1,6 @@
 ---
 title: "About"
 featured_image: '/images/Ham-Radio.jpg'
-description: "History and Information"
 ---
 ## Information
 The Utah Amateur Radio Club (UARC) is a general-purpose amateur radio club serving Salt Lake City and nearby areas. It is a Utah non-profit corporation. Meetings are held on the second Thursday of each month, except for July and August. Meeting topics include many amateur-related items 

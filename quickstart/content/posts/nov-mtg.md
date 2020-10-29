@@ -1,5 +1,5 @@
 ---
-title: "November Online Club Meeting - November 12"
+title: "November 12 Online Club Meeting - Building an HF Station"
 date: 2020-10-29T12:36:25-06:00
 draft: true
 ---
