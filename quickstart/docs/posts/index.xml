@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on UARC</title>
+    <link>https://mr-cade.github.io/uarc-rebuild/posts/</link>
+    <description>Recent content in Posts on UARC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2020 12:36:25 -0600</lastBuildDate><atom:link href="https://mr-cade.github.io/uarc-rebuild/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>November 12 Online Club Meeting - Building an HF Station</title>
+      <link>https://mr-cade.github.io/uarc-rebuild/posts/nov-mtg/</link>
+      <pubDate>Thu, 29 Oct 2020 12:36:25 -0600</pubDate>
+      
+      <guid>https://mr-cade.github.io/uarc-rebuild/posts/nov-mtg/</guid>
+      <description>Our UARC President will be presenting the next UARC meeting on Thursday, Novermber 12. He writes:
+“Every Ham proudly remembers the day he passed the exam for his General ticket. Then he stops and realizes that the high frequency bands are all new territory and his station will need an upgrade to work these new bands. As a Technician you probably used off-the-shelf equipment and just did the plug-and-play routine. That doesn’t generally work when assembling an HF station.</description>
+    </item>
+    
+  </channel>
+</rss>
