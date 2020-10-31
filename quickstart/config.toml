@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "UARC"
 theme = "ananke"
+publishDir = "docs"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
