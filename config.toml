@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://mr-cade.github.io/uarc-rebuild/"
 languageCode = "en-us"
 title = "UARC"
 theme = "ananke"

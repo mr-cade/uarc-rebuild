@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://mr-cade.github.io/uarc-rebuild/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/benefits/</loc>
+    <loc>https://mr-cade.github.io/uarc-rebuild/benefits/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://mr-cade.github.io/uarc-rebuild/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://mr-cade.github.io/uarc-rebuild/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/joining/</loc>
+    <loc>https://mr-cade.github.io/uarc-rebuild/joining/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://mr-cade.github.io/uarc-rebuild/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://mr-cade.github.io/uarc-rebuild/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
