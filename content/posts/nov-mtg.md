@@ -1,7 +1,7 @@
 ---
 title: "November 12 Online Club Meeting - Building an HF Station"
 date: 2020-10-29T12:36:25-06:00
-draft: true
+draft: false
 ---
 
 Our UARC President will be presenting the next UARC meeting on Thursday, Novermber 12. He writes:
