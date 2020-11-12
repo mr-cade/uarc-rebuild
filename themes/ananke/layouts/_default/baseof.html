@@ -50,8 +50,10 @@
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
     <main class="pb7" role="main">
+      {{ block "sidebar" . }}{{ partial "sidebar.html" . }}{{ end }}
       {{ block "main" . }}{{ end }}
     </main>
+    
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
     {{ block "scripts" . }}{{ partialCached "site-scripts.html" . }}{{ end }}
   </body>
