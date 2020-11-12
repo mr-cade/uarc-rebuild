@@ -16,7 +16,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "/images/favicon.ico"
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = "https://www.facebook.com/UtahAmateurRadioClub/"
