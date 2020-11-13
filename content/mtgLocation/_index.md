@@ -7,9 +7,7 @@ The Utah Amateur Radio Club meets on the second Thursday of each month except Ju
 
 ## Reaching the Building
 
-<img src="/images/map4.gif"
-     alt="Map of Meeting Location"
-     style="float: left; margin-right: 10px;" />
+![Meeting Location Map](map4.gif)
 
 ### From the west: 
 Approach the campus by driving east on 100 South. Follow the road as it makes a left turn and a right turn to become “North Campus Drive.” Turn right at the traffic signal onto “Central Campus Drive.” After passing the Merrill Engineering Building you will come to the front of the Warnock Engineering Building on the west side of the road. Parking lots are on the east side. You may use the one directly across the road from the building, or the ones immediately north and south of that one. (These lots are outlined in green on the map.) Parking in any other lot may result in a citation.
