@@ -96,13 +96,19 @@
   </url>
   
   <url>
-    <loc>https://mr-cade.github.io/uarc-rebuild/repeaters/</loc>
+    <loc>https://mr-cade.github.io/uarc-rebuild/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://mr-cade.github.io/uarc-rebuild/tags/</loc>
+    <loc>https://mr-cade.github.io/uarc-rebuild/uarc-repeaters/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/utah-repeaters/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
