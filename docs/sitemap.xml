@@ -30,7 +30,19 @@
   </url>
   
   <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/books/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mr-cade.github.io/uarc-rebuild/benefits/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/by-laws/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -48,6 +60,18 @@
   </url>
   
   <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/elmers/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/remote/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mr-cade.github.io/uarc-rebuild/joining/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -55,6 +79,12 @@
   
   <url>
     <loc>https://mr-cade.github.io/uarc-rebuild/irlp/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mr-cade.github.io/uarc-rebuild/lending/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
