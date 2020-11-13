@@ -1,5 +1,5 @@
 ---
-title: "Repeaters"
+title: "UARC Repeaters"
 featured_image: '/images/Ham-Radio.jpg'
 ---
 
