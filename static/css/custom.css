@@ -5,4 +5,5 @@
 ul li {
     margin-bottom: 7px;
     font-size: 1.17em;
+    list-style-type: none;
 }
