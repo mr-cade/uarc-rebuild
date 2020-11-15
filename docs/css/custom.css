@@ -1,5 +1,7 @@
 #sidebar {
     float: left;
+    background-color: lightgray;
+    padding: 15px;
 }
 
 ul li {

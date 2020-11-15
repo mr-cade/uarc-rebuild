@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [params]
   favicon = "/images/favicon.ico"
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Utah Amateur Radio Club"
   facebook = "https://www.facebook.com/UtahAmateurRadioClub/"
   twitter = ""
   instagram = ""

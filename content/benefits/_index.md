@@ -7,11 +7,14 @@ featured_image: '/images/Ham-Radio.jpg'
 UARC operates three repeaters. On the 9000-foot Farnsworth Peak site (location of the KSL Channel 5 television transmitter) is one of two 146.62 MHz repeaters. The other one operates synchronously from Scott's Hill, on the ridge between Big Cottonwood Canyon and Park City. The receiver receiving the best signal at any given time feeds the transmitters on both sites.
 
 Lake Mountain, west of Utah Lake, at 7600 feet, is home to the 146.76 MHz repeater. The 146.76 repeater is a node in the Internet Repeater Linking Project (IRLP). UARC members can use it to connect to other IRLP repeaters throughout the world. (See instructions for IRLP usage.) Although the repeaters are open to all amateurs, IRLP use is reserved for UARC members and visitors from out of the area. No CTCSS (also known as "PL") tones are required.
-UARC Information Net
+
+## UARC Information Net
 UARC holds a net every Sunday evening to disseminate information related to amateur radio. The UARC Information Net is held every Sunday evening at 9:00 P.M. on the club's 146.62 MHz repeater. The net includes announcements of UARC activities, Newsline, ARRL Bulletins, a listing of other clubs and nets, and a roundtable where people with questions or problems can seek out those with answers.
-ARRL Books
+
+## ARRL Books
 In order to make ARRL publications about amateur radio available in the Salt Lake City area, UARC has become an ARRL book dealer. License manuals, handbooks, repeater directories, and many specialized topics are available. The books are available for sale at each club meeting. In addition, Brett Sutherland, the book seller (affectionately known as the “Book Lady”) is often available during weekday business hours at his office near 600 East and South Temple in Salt Lake City. He can be reached at (801) 994-9944 Ext. 152.
-Field Day
+
+## Field Day
 UARC enters the annual Field Day contest held on the fourth Saturday of June and the following Sunday each year. Field Day is the world's largest amateur radio contest and is sponsored by the American Radio Relay League. The purpose is to give operators as much opportunity as possible to experience emergency-type operating conditions: a quickly-set-up station in the field, continuous operation through the night, and emergency power.
 UARC usually sets up one or more stations as part of the club entry. This is usually done from a site in the mountains, appropriate for a family get-together and camp out.
 
