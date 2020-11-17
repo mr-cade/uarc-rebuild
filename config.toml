@@ -35,5 +35,4 @@ enableRobotsTXT = true
   featured_image = "/images/Antenna-Farm.jpg"
   recent_posts_number = 2
   custom_css = ["css/custom.css"]
-
  

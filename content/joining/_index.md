@@ -15,3 +15,7 @@ c/o Tom Kamlowsky, WA7ZRG
 Salt Lake City, Utah 84124-2711
 Phone: 505-9134
 E_mail: wa7zrg@yahoo.com
+
+Alternatively, join via PayPal here:
+
+{{< pp-donate >}}
