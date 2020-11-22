@@ -1,6 +1,8 @@
 ---
 title: "Elmers"
 featured_image: '/images/Ham-Radio.jpg'
+tags:
+  - "Benefits"
 ---
 
 | Topic                                          	| Elmer Name                                                                   	| Email                         	| Phone 	|

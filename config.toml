@@ -5,7 +5,10 @@ theme = "ananke"
 publishDir = "docs"
 
 DefaultContentLanguage = "en"
+
+# ***** change section pages menu back to uncommented and remove below menu config to revert to default auto menu populating
 SectionPagesMenu = "main"
+
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
@@ -35,4 +38,50 @@ enableRobotsTXT = true
   featured_image = "/images/Antenna-Farm.jpg"
   recent_posts_number = 2
   custom_css = ["css/custom.css"]
- 
+
+# [menu]
+#   [[menu.main]]
+#     name = "About"
+#     url = "/about"
+#     # parent = "category"
+#     weight = 1
+#   # [[menu.main]]
+#   #   identifier = "category"
+#   #   name = "About"
+#   #   url = "/about"
+#   #   weight = 1
+#   [[menu.main]]
+#     identifier = "benefits"
+#     name = "Benefits"
+#     url = "/tags/Benefits"
+#     # parent = "category"
+#     weight = 1
+#   [[menu.main]]
+#     identifier = "category2"
+#     name = "Category2"
+#     url = "/tags/category2"
+#     parent = "category"
+#     weight = 2
+#   [[menu.main]]
+#     identifier = "category3"
+#     name = "Category3"
+#     url = "/tags/category3"
+#     parent = "category"
+#     weight = 3
+#   [[menu.main]]
+#     identifier = "another-category"
+#     name = "Another Category"
+#     url = "/another-category"
+#     weight = 2
+#   [[menu.main]]
+#     identifier = "another-category1"
+#     name = "Another Category1"
+#     url = "/tags/another-category1"
+#     parent = "another-category"
+#     weight = 1
+#   [[menu.main]]
+#     identifier = "another-category2"
+#     name = "Another Category2"
+#     url = "/tags/another-category2"
+#     parent = "another-category"
+#     weight = 2
