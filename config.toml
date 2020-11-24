@@ -20,7 +20,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = "/images/favicon.ico"
-  site_logo = ""
+  site_logo = "/images/logo.jpg"
   description = "Utah Amateur Radio Club"
   facebook = "https://www.facebook.com/UtahAmateurRadioClub/"
   twitter = ""
@@ -39,6 +39,7 @@ enableRobotsTXT = true
   recent_posts_number = 2
   custom_css = ["css/custom.css"]
 
+# Menu Structure ======================================================
 [menu]
   [[menu.main]]
     identifier = "about"
