@@ -7,7 +7,7 @@ publishDir = "docs"
 DefaultContentLanguage = "en"
 
 # ***** change section pages menu back to uncommented and remove below menu config to revert to default auto menu populating
-SectionPagesMenu = "main"
+# SectionPagesMenu = "main"
 
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
@@ -39,49 +39,89 @@ enableRobotsTXT = true
   recent_posts_number = 2
   custom_css = ["css/custom.css"]
 
-# [menu]
-#   [[menu.main]]
-#     name = "About"
-#     url = "/about"
-#     # parent = "category"
-#     weight = 1
-#   # [[menu.main]]
-#   #   identifier = "category"
-#   #   name = "About"
-#   #   url = "/about"
-#   #   weight = 1
-#   [[menu.main]]
-#     identifier = "benefits"
-#     name = "Benefits"
-#     url = "/tags/Benefits"
-#     # parent = "category"
-#     weight = 1
-#   [[menu.main]]
-#     identifier = "category2"
-#     name = "Category2"
-#     url = "/tags/category2"
-#     parent = "category"
-#     weight = 2
-#   [[menu.main]]
-#     identifier = "category3"
-#     name = "Category3"
-#     url = "/tags/category3"
-#     parent = "category"
-#     weight = 3
-#   [[menu.main]]
-#     identifier = "another-category"
-#     name = "Another Category"
-#     url = "/another-category"
-#     weight = 2
-#   [[menu.main]]
-#     identifier = "another-category1"
-#     name = "Another Category1"
-#     url = "/tags/another-category1"
-#     parent = "another-category"
-#     weight = 1
-#   [[menu.main]]
-#     identifier = "another-category2"
-#     name = "Another Category2"
-#     url = "/tags/another-category2"
-#     parent = "another-category"
-#     weight = 2
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    weight = 1
+    [[menu.main]]
+      identifier = "joining"
+      name = "How to Join"
+      url = "/joining"
+      parent = "about"
+      weight = 1
+    [[menu.main]]
+      identifier = "mtgLocation"
+      name = "Meeting Location"
+      url = "/mtgLocation"
+      parent = "about"
+      weight = 1
+    [[menu.main]]
+      identifier = "posts"
+      name = "Meeting Schedule"
+      url = "/posts"
+      parent = "about"
+      weight = 1
+    [[menu.main]]
+      identifier = "byLaws"
+      name = "By-Laws"
+      url = "/by-laws"
+      parent = "about"
+      weight = 1
+    [[menu.main]]
+      identifier = "atv"
+      name = "Amateur Television"
+      url = "/atv"
+      parent = "about"
+      weight = 1
+  [[menu.main]]
+    identifier = "benefits"
+    name = "Benefits"
+    weight = 1
+    [[menu.main]]
+      identifier = "repeaters"
+      name = "UARC Repeaters"
+      url = "/uarc-repeaters"
+      parent = "benefits"
+      weight = 1
+    [[menu.main]]
+      identifier = "UTrepeaters"
+      name = "Utah Repeaters"
+      url = "/utah-repeaters"
+      parent = "benefits"
+      weight = 1
+    [[menu.main]]
+      identifier = "bookLending"
+      name = "ARRL Book Lending"
+      url = "/lending"
+      parent = "benefits"
+      weight = 1
+    [[menu.main]]
+      identifier = "irlp"
+      name = "IRLP"
+      url = "/irlp"
+      parent = "benefits"
+      weight = 1
+    [[menu.main]]
+      identifier = "remote"
+      name = "Remote"
+      url = "/remote"
+      parent = "benefits"
+      weight = 1
+    [[menu.main]]
+      identifier = "elmers"
+      name = "Elmers"
+      url = "/elmers"
+      parent = "benefits"
+      weight = 1
+  [[menu.main]]
+    identifier = "shop"
+    name = "Shop"
+    weight = 1
+    [[menu.main]]
+      identifier = "books"
+      name = "Books"
+      url = "/books"
+      parent = "shop"
+      weight = 1
+    
